@@ -69,81 +69,88 @@
       "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/WG_A20YyTgZJqtTAikSFdl0DmX4pHw.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.0-CL-7658179",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.0-CL-7658179-Windows.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.10-CL-7955722",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.10-CL-7955722-Windows.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.20-CL-8456527",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.20-CL-8456527-Windows.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.30-CL-8569414",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.31-CL-8723043",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/DN-rIV_Kr52qz46BIkWDz1yk1fvR3A.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "10.40-CL-9380822",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.40-CL-9380822-Windows.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "11.00-CL-9603448",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/sMeK9k1aLob5LB-hoUKKLmUfxwC-1Q.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "11.01-CL-9728272",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/QZRwNP2PFJA8ZRaJf0CvTdp_lifayg.manifest"
+    }, 
+      {
+      "Version": "11.10-CL-9901083",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortite+Release-11.10-CL-9901083-Windows.manifest"
+    },
+        {
+      "Version": "11.11-CL-10082788",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/iVPwyvOxVsK6klhS1UeSRfQfJbPGZA.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
+      "Version": "11.20-CL-10328358",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/WmJlwXvlu0LMLVGGqUmXPy93OQSFBw.manifest"
     }, 
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "11.21-CL-10481509",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/fKa-ZiFTzVP69JIxIky1OfyTt-Qsxg.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.10-CL-11883027",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.10-CL-11883027-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.20-CL-12236980",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/mVCAttTZSI3CLUbvdEmn1Yu08271-w.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.21-CL-12236980",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/9_K5hT-t-j1KPiPCXkCzWNSsvzDRTw.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.30-CL-12624643",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.30-CL-12624643-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.40-CL-12782126",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.40-CL-12782126-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.40-CL-12837456",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.40-CL-12837456-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version: "12.41-CL-12905909",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.41-CL-12905909-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
+      "Version": "12.50-CL-13044369",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.50-CL-13044369-Windows.manifest"
+    },
     {
-      "Version": "",
-      "Url": ""
-    }, 
-
+      "Version": "12.50-CL-13137020",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-12.50-CL-13137020-Windows.manifest"
+    },
   ]
 }
