@@ -1,8 +1,149 @@
 {
   "Builds": [
     {
-      "Version": "TEST",
-      "Url": "https://codeload.github.com/Kyiro/Fortnite-ManifestsArchive/zip/refs/tags/1.2"
+      "Version": "10.0-CL-7658179",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.0-CL-7658179-Windows.manifest"
     }, 
+    {
+      "Version": "10.10-CL-7955722",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.10-CL-7955722-Windows.manifest"
+    }, 
+    {
+      "Version": "10.20-CL-8456527",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.20-CL-8456527-Windows.manifest"
+    }, 
+    {
+      "Version": "10.30-CL-8569414",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ.manifest"
+    }, 
+    {
+      "Version": "10.31-CL-8723043",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/DN-rIV_Kr52qz46BIkWDz1yk1fvR3A.manifest"
+    }, 
+    {
+      "Version": "10.40-CL-9380822",
+      "Url": "https://raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-10.40-CL-9380822-Windows.manifest"
+    }, 
+    {
+      "Version": "11.00-CL-9603448",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/sMeK9k1aLob5LB-hoUKKLmUfxwC-1Q.manifest"
+    }, 
+    {
+      "Version": "11.01-CL-9728272",
+      "Url": "https://raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/QZRwNP2PFJA8ZRaJf0CvTdp_lifayg.manifest"
+    }, 
+    {
+      "Version": "11.10-CL-9901083",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-11.10-CL-9901083-Windows.manifest"
+    }, 
+    {
+      "Version": "11.11-CL-10082788",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/iVPwyvOxVsK6klhS1UeSRfQfJbPGZA.manifest"
+    }, 
+    {
+      "Version": "11.20-CL-10328358",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/WmJlwXvlu0LMLVGGqUmXPy93OQSFBw.manifest"
+    }, 
+    {
+      "Version": "11.21-CL-10481509",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ.manifest"
+    }, 
+    {
+      "Version": "11.30-CL-10708866",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/DDQp02DHMVKums1CD0a5qa-GxxTxJg.manifest"
+    }, 
+    {
+      "Version": "11.31-CL-10800459",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/I9bgKLDRd2f-FvbbCkiyhu_u2eczYg.manifest"
+    }, 
+    {
+      "Version": "11.40-CL-11039906",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-11.40-CL-11039906-Windows.manifest"
+    }, 
+    {
+      "Version": "11.50-CL-11265652",
+      "Url": "https//raw.githubusercontent.com/realkyro/Fortnite-ManifestsArchive/master/Manifests/Fortnite_++Fortnite+Release-11.50-CL-11265652-Windows.manifest"
+    }, 
+    {
+      "Version": "12.00-CL-11586896",
+      "Url": "https//raw.githubusercontent.com/VastBlast/FortniteManifestArchive/main/Fortnite/Windows/WG_A20YyTgZJqtTAikSFdl0DmX4pHw.manifest"
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+    {
+      "Version": "",
+      "Url": ""
+    }, 
+
   ]
 }
